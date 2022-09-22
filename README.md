@@ -6,7 +6,10 @@
 
 O projeto consiste em um sistema basico de e-commerce onde seja possivel:
 
-    - Listar e visualizar produtos simulando fetch's - Abrir um produto e visulizar seus dados - Adicionar produtos a um carrinho - Remover produtos do carrinho
+    - Listar e visualizar produtos simulando fetch's 
+    - Abrir um produto e visulizar seus dados 
+    - Adicionar produtos a um carrinho 
+    - Remover produtos do carrinho
 
 ## Desafios do projeto
 
